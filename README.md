@@ -6,4 +6,7 @@ github
 ليتم اضافتك 
 كمشارك 
 سيتم اختيار مشروع بعد التوافق عليه من قبل المشاركين 
- 
+
+Group discussions:
+
+https://groups.google.com/d/forum/aminproject
